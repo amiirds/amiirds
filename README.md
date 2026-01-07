@@ -1,4 +1,4 @@
-                                                                                  Hi everyone, I'm Rez
+                                                                                # Hi everyone, I'm Rez
 # 💫 About Me:
 🧑‍💻 Working on DevOps projects and cloud infrastructure labs<br>🤝 Open to collaborating on DevOps, CI/CD, and automation projects<br>🌱 Currently expanding skills in Kubernetes, Docker, and AWS<br>💬 Ask me about Linux administration and DevOps fundamentals<br>⚡ Fun fact: I automate everything I can<br>
 
